@@ -1,0 +1,55 @@
+ body{
+        color: rgb(4, 8, 0);
+        font-family: arial;
+        margin:50px;
+         {
+            background-color: lightblue;
+          }
+    
+ }
+div {
+    min-height: 10vh;
+width: 10vw;
+}
+h1, h2  {
+text-align: center;
+}
+h1 {
+    font-size: 5em;
+}
+img {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 13000000000px;
+    }
+    list-style: disc;
+    #mujSeznam {
+        list-style: square;
+        padding: 0;
+        font-size: 30em;
+    }li.item {
+        padding: 20em;
+    }
+     .kocka, .pes {
+         color: red;
+        }
+        .kralik {
+            color: green;
+        }
+        li {
+            margin: 0 20px;
+            transition: 0.6s ease;
+        }
+        li:hover {
+            font-size: 3em;
+            transition: 0.6s ease;
+        }
+
+
+
+
+
+
+
+
